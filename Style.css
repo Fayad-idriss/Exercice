@@ -1,0 +1,27 @@
+.main{
+    
+    border: gray 1px solid;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 6px;
+    
+    
+}
+
+.icone-conteneur{
+    background-color: blue;
+    
+    
+}
+
+.contenant{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+}
+
+children{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
